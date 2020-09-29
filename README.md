@@ -5,11 +5,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=myronovych&include_all_commits=true&show_icons=true&hide=contribs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <p align="center">
-  <a href="https://github.com/myronovych/parimatch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myronovych&repo=parimatch&theme=highcontrast" />
-  </a>
   <a href="https://github.com/myronovych/github-followers">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myronovych&repo=github-followers&theme=dark" />
+  </a>
+  <a href="https://github.com/myronovych/parimatch">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myronovych&repo=parimatch&theme=highcontrast" />
   </a>
 </p>
 <!--
